@@ -14,14 +14,3 @@ I created this repo to stay consistent, improve problem-solving skills, and trac
 ✔ Build strong GitHub consistency
 
 ---
-
-## 🧠 Topics Covered
-
-Problems will include:
-
-- Arrays & Strings  
-- Hashing  
-- Recursion & Backtracking  
-- Linked List  
-- Stack & Queue  
-- Tre
